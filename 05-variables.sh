@@ -6,3 +6,6 @@ read -s USERNAME # here USERNAME is the variable name
 
 echo "user name : $USERNAME"
  
+echo "please enter password: "
+
+read -s PASSWORD
